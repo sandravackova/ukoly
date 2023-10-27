@@ -1,9 +1,8 @@
 Barvy:
-  #A82929
-  #FCBBBB
-  #A154A8
+  #FEEFE5
+  #743C2F
+  #172A3A
 
 Font:
-  AR One Sans
-  Ruwudu
-  
+  DM Serif Display,
+  Sacramento
